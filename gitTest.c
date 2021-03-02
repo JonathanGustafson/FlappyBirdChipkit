@@ -4,7 +4,7 @@ hur strukturen för spellogiken kan se ut
 -----------------------------------------------------
 Struktur skriven av Jonathan Gustafson
 *****************************************************/
-<#include <stdio.h>
+#include <stdio.h>
 
 void menu();
 void play();
